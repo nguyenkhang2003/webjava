@@ -1,0 +1,35 @@
+.footer{
+    background-color: #222;
+    color: white;
+}
+.logo-footer{
+    width: 14rem;
+    margin: 0.5em 0em;
+}
+.col-footer{
+    margin-top: 2rem;
+}
+.copy-right{
+    padding: 1rem;
+    font-size: 0.8em;
+    text-align: center;
+    background-color: #333333;
+    color: #d5d5d5;
+}
+.content-footer{
+    padding-top: 1em;
+}
+.title-footer{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-bottom: 0.5em;
+    margin-bottom: 0em !important;
+    border-bottom: #d5d5d5 2px solid;
+}
+.link-footer{
+    margin: 0.5rem 0rem !important;
+}
+.icon-footer{
+    width: 1.5rem;
+    margin-right: 0.5em;
+}

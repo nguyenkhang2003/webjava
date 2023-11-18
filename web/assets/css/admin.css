@@ -1,0 +1,209 @@
+.admin-dashboard hr{
+    margin: 0.5rem;
+}
+.admin-dashboard p{
+    margin: 0.5rem !important;
+}
+.title-admin{
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding-left: 2rem;
+    text-align: left;
+}
+.dash-board {
+    max-width: 300px;
+  height: 600px;
+  background-color: #333333;
+  padding-top: 2rem !important;
+  color: #fff;
+  text-align: center;
+  box-shadow: 0 2px 2px #333333, 0 2px 2px #333333;
+}
+.db-link {
+  text-align: left;
+  font-size: 1rem;
+  font-weight: bold;
+  height: 50px;
+  padding: 0.65rem 2rem;
+  background-color: #333333;
+}
+.db-link:hover{
+    background-color: #504c4c;
+}
+.db-link a{
+    color: #fff;
+}
+.db-link a:hover{
+    text-decoration: none;
+}
+.link-sc{
+    border: none !important;
+    border-radius: 0rem !important;
+    padding-left: 2rem !important;
+}
+.lst-link a{
+    color: #fff;
+    font-weight: normal !important;
+}
+.lst-link a:hover{
+    text-decoration: none;
+    font-weight: bold !important;
+}
+.db-1{
+    border-left: #2c7abe 5px solid;
+}
+.db-2{
+    border-left: #42b72a 5px solid;   
+}
+.db-3{
+    border-left: #e91b0c 5px solid;
+}
+.db-4{
+    border-left: #c98e0f 5px solid;
+}
+.card-db{
+    margin: 1rem 1rem 1rem 4rem!important;
+    border-radius: 10px;
+    max-width: 500px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px #c4c4c4, 0 8px 16px #c4c4c4;
+}
+.card-db img{
+    margin: 2.5rem 0rem 1rem 4rem;
+    height: 3rem;
+}
+.card-db-content{
+    padding: 2rem !important;
+}
+.card-users{
+    margin: 1rem 2rem!important;
+    border-radius: 10px;
+    max-width: 500px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px #c4c4c4, 0 8px 16px #c4c4c4;
+}
+.view-users{
+    padding: 1rem !important;
+}
+.view-users span{
+    color: #333333;
+    font-weight: bold;
+}
+.avt-users {
+    margin: 0rem !important;
+}
+.avt-users img{
+    width: 80%;
+    border-radius: 50%;
+    margin: 1.5rem 0rem !important;
+}
+.title-db{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #2c7abe;
+}
+.admin-dashboard h2{
+    margin-top: 1.5rem;
+    color: #2c7abe;
+    font-weight: bold;
+    text-align: center;
+}
+.box-db{
+    margin: 2rem !important;
+    background-color: #ffffff !important;
+    border-radius: 1rem;
+    box-shadow: 0 2px 4px #c4c4c4, 0 8px 16px #c4c4c4;
+}
+.db-active{
+    background-color: #504c4c;
+    text-decoration: underline;
+}
+/*Add-Tags*/
+.title-add-tag{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #2c7abe;
+    text-align: center;
+}
+.box-add-tag{
+    max-width: 400px;
+    background-color: #ffffff;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px #c4c4c4, 0 8px 16px #c4c4c4;
+}
+.box-update-tag{
+    background-color: #ffffff;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px #c4c4c4, 0 8px 16px #c4c4c4;
+}
+.btn-add-tag{
+    text-align: center;
+}
+.btn-add-tag button{
+    background-color: #2c7abe;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    transition: all 0.5s;
+}
+.btn-add-tag button:hover{
+    background-color: #124a7a;
+}
+.box-list-tag{
+    background-color: #ffffff;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px #c4c4c4, 0 8px 16px #c4c4c4;
+}
+.title-tb{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.body-tb{
+    padding-left: 0.5rem;
+}
+.content-tb p{
+    padding: 0.5rem 0rem !important;
+    margin: 0rem !important;
+}
+.btn-delete{
+    background-color: #e91b0c;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    padding: 0.3rem 1rem;
+    transition: all 0.5s;
+}
+.btn-delete:hover{
+    background-color: #c41306;
+    box-shadow: 0 2px 4px #c4c4c4, 0 2px 4px #c4c4c4;
+}
+.btn-update{
+    margin-left: 50%;
+    border: #2c7abe 2px solid;
+    background-color: #ffffff;
+    color: black;
+    border-radius: 10px;
+    padding: 0.3rem 1rem;
+    transition: all 0.5s;
+}
+.btn-update:hover{
+    background-color: #2c7abe;
+    color: #fff;
+}
+.preview-img{
+    width: 100%;
+    height: 100px;
+    border: #c4c4c4 1px solid;
+    border-radius: 5px;
+}
+.pd-chk{
+    padding-left: 2rem !important;
+}

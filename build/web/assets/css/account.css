@@ -1,0 +1,202 @@
+/*.account {
+  background-color: #f8f9fa !important; }
+.account-cont{
+  padding: 0rem !important;
+}
+.box-account{
+  margin-left: 0.5rem !important;
+  margin-right: 1rem !important;
+}
+.box{
+  box-shadow: 0 2px 4px #c4c4c4, 0 8px 16px #c4c4c4;
+  border-radius: 10px; }
+.changepw-box{
+  padding: 0rem 2rem;
+  background-color: #fff;
+  margin: 1rem;
+  box-shadow: 0 2px 4px #c4c4c4, 0 8px 16px #c4c4c4;
+  border-radius: 10px; }
+  .follow-box{
+  padding: 0rem 2rem;
+  background-color: #fff;
+  margin: 1rem;
+  box-shadow: 0 2px 4px #c4c4c4, 0 8px 16px #c4c4c4;
+  border-radius: 10px; }
+.changepw-form{
+  padding: 0rem;
+}
+.account-menu {
+  width: 90%;
+  background-color: white;
+  padding: 0;
+  border-radius: 12px;
+  padding-bottom: 1rem; }
+
+.account-title {
+  font-size: 1rem;
+  padding: 1rem 2rem; }
+.changepw-title {
+  text-align: center;
+  font-size: 1rem;
+  padding: 1rem 2rem; }
+.account-list {
+  width: 100%;
+  padding: 0rem; }
+  .account-list li {
+    list-style-type: none; }
+
+.account-list a {
+  color: #464c55af;
+  font-size: 1rem;
+  font-weight: normal;
+  text-decoration: none; }
+
+.account-list-item {
+  padding: 1rem 2rem;
+  height: 3.5rem; }
+
+a .account-list-item.active,
+a .account-list-item.active {
+  background-color: #464c5521; }
+
+.account-list-item.active,
+.account-list-item.active {
+  color: #464c55;
+  font-weight: bold; }
+
+a .account-list-item:hover,
+a .account-list-item:focus {
+  background-color: #464c5521; }
+
+.account-list-item:hover,
+.account-list-item:focus {
+  color: #464c55;
+  font-weight: bold; }
+
+.account-list-item.active {
+  background-color: #464c5521; }
+
+.account-list-item.active a {
+  color: #464c55;
+  font-weight: bold; }
+
+.account-list-item a {
+  color: #464c55af;
+  font-size: 1rem;
+  font-weight: normal; }
+
+.account-list-item a:hover {
+  text-decoration: none; }
+
+.c-red {
+  color: red; }
+
+.c-red:hover {
+  color: red; }
+
+.c-light-text {
+  color: #AEB0B5; }
+
+.account-infor {
+  margin: 1rem 0rem;
+}
+
+.text-center {
+  text-align: center !important; }
+
+.img-upload {
+  height: 500px;
+  margin: 0rem 0rem;
+  border-right: 1px solid rgba(151, 151, 151, 0.514); }
+
+.img-upload img {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  border-style: none;
+  background-color: #02749213;
+  border-radius: 50%;
+  margin: 0 28%;
+  margin-top: 100px; }
+
+.img-upload p {
+  font-size: 15px;
+  font-weight: lighter;
+  margin: auto;
+  width: 250px;
+  margin-top: 10px; }
+
+.img-upload input {
+  display: inline-block;
+  border: none;
+  background: transparent;
+  color: transparent;
+  margin: 0 34%;
+  margin-top: 20px;
+  margin-bottom: 100px; }
+
+.img-upload input::-webkit-file-upload-button {
+  visibility: hidden; }
+
+.img-upload input::before {
+  content: "Thay đổi";
+  color: #555555;
+  padding: 5px 15px;
+  border-radius: 7px;
+  font-weight: lighter;
+  font-size: 14px;
+  border: 1px solid rgba(139, 139, 139, 0.644); }
+
+.label-for-input {
+  color: #555555;
+  padding: 5px 15px;
+  border-radius: 7px;
+  font-weight: lighter;
+  font-size: 14px;
+  border: 1px solid rgba(139, 139, 139, 0.644);
+  margin-top: 1rem; }
+.label-for-input:hover{
+  border: 1px solid #2c7abe;
+  color: #2c7abe;
+}
+
+.infor-form button.btn-submit {
+  transition: all 0.5s;
+  border-radius: 8px;
+  padding: 0.5rem;
+  background-color: #2c7abe;
+  width: 100%;
+  margin-bottom: 5%;
+  color: #fff;
+  font-weight: bold; }
+.btn-submit:hover{
+  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+  background-color: #124a7a !important;
+}
+.infor-form h3.title {
+  margin: 30px 0px 50px;
+  font-family: inherit;
+  font-weight: bold; }
+.infor-form .form-check-label {
+  margin-right: 4rem;
+  margin-top: 1rem; }
+
+.form__input {
+  border: none;
+  background-color: rgba(73, 73, 73, 0.075);
+  height: 3rem;
+  border-radius: 8px; }
+
+.form__input:focus,
+.form__input:active {
+  background-color: #02749213;
+  border: solid 1.5px #027492;
+  box-shadow: none; }
+
+input:focus {
+  outline: none; }
+
+.title {
+  position: relative;
+  margin-bottom: 1rem !important;
+   margin-left: 45px;  }*/

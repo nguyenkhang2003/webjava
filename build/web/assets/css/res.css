@@ -1,0 +1,2071 @@
+/*@media screen and (min-width: 320px) and (max-width: 424px) {
+  .move-top img{
+    right: 0 !important;
+    width: 1.2rem;
+  }
+  .mb-ds{
+    display: none;
+  }
+  Login
+  .col{
+    padding: 0.5rem 0rem;
+  }
+  .login-mg-pd{
+    margin: 4rem 0rem 5rem;
+  }
+  .brand-login img{
+    margin: 1rem 1rem 1rem 0rem;
+  }
+  .al-login{
+    width: 100% !important;
+    margin-bottom: 3rem;
+  }
+  .al-login input{
+    font-size: 0.5rem !important;
+    height: 20px;
+  }
+  .login-btn{
+    font-size: 0.6rem !important;
+    padding: 0.3rem 1rem !important;
+  }
+  .fg-pswd{
+    padding-top: 0rem !important;
+    font-size: 0.5rem;
+  }
+  .fg-pswd p{
+    font-size: 0.5rem;
+  }
+  .signin-btn {
+    padding: 0rem !important;
+  }
+  .signin-btn a{
+    font-size: 0.6rem !important;
+    padding: 0.3rem 1rem !important;
+  }
+  End Login
+  Sign Up
+  .sub-signup h2{
+    font-size: 0.9rem;
+  }
+  .sub-signup p{
+    font-size: 0.7rem;
+    margin-bottom: 0.5rem !important;
+  }
+  .signup-mg-pd{
+    margin: 4rem 0rem 6rem;
+  }
+  .brand-signup img{
+    margin: 4rem 1rem 1rem 0rem;
+  }
+  .name-form{
+    margin-bottom: 0.5rem !important;
+  }
+  .align-input{
+    margin-top: 0.5rem;
+  }
+  .sc-input input{
+    font-size: 0.8rem !important;
+  }
+  .surname-input{
+    padding: 0rem !important;
+  }
+  .surname-input input{
+    font-size: 0.5rem !important;
+    height: 20px;
+  }
+  .lastname-input{
+    padding: 0rem 0rem 0rem 0.5rem !important;
+  }
+  .lastname-input input{
+    font-size: 0.5rem !important;
+    height: 20px;
+  }
+  .signup-btn{
+    font-size: 0.7rem !important;
+    padding: 0.3rem 1rem !important;
+  }
+  End Sign Up
+  Header
+  .nav{
+    font-size: 0.7rem;
+  }
+  .dropbtn{
+    font-size: 0.7rem;
+  }
+  .img-icon{
+    width: 0.8rem;
+    margin-left: 0.2rem;
+  }
+  .first{
+    font-size: 0.6rem;
+    min-width: 180px;
+  }
+  .first a{
+   width: 90px;
+   padding: 0.5rem; 
+  }
+  .sc-dr{
+    right: -1rem;
+    font-size: 0.6rem;
+    min-width: 100px;
+  }
+  .sc-dr a{
+    width: 100px;
+    padding: 0.5rem;
+  }
+  .disappear {
+    display: none !important;
+  }
+  .home{
+    display: none !important;
+  }
+  .last-row{
+    display: none !important;
+  }
+  .search-tool{
+    display: none !important;
+  }
+  .navbar-brand img{
+    width: 5rem;
+  }
+  End header
+  
+  Index
+  .title{
+    font-size: 0.7rem;
+    padding-top: 0.5rem;
+    margin-bottom: 0rem !important;
+  }
+  Slider
+  p{
+    font-size: 0.7rem;
+  }
+  .content{
+    width: 85px;
+  }
+  .card-content{
+   padding: 0.2rem 0.2rem;
+  }
+  .time{
+    display: none;
+  }
+  .slide-card {
+    height: 100px;
+    width: 90px;
+  }
+  .chapter{
+    font-size: 0.7rem !important;
+  }
+  .btnRight{
+    left: 85%;
+  }
+  .slider-border{
+    margin-top: 4rem;
+    padding-bottom: 1rem;
+  }
+  End Slider
+  Main Section
+  .fix{
+    margin: 0rem !important;
+    padding: 0rem !important;
+  }
+  .title-update{
+    padding-left: 0.2rem;
+    width: 95px;
+    font-size: 0.6rem !important;
+  }
+  .chapter-update a{
+    font-size: 0.5rem;
+  }
+  .time-update{
+    margin-top: 0.5rem;
+    font-size: 0.5rem;
+  }
+  .page-al{
+    padding-left: 15%;
+  }
+  .pagination{
+    font-size: 0.6rem;
+  }
+  .read{
+    font-size: 0.6rem;
+    margin-left: 0rem;
+    padding-left: 1rem;
+  }
+  .like-white{
+    display: none;
+  }
+  End MainSection
+  Top Comic
+  .hot-title{
+    font-size: 0.6rem;
+  }
+  .hot-card{
+    height: 50px;
+  }
+  .rank{
+    font-size: 0.7rem;
+    margin: 0rem !important;
+    padding: 0rem 0.5rem 0rem 0rem!important;
+  }
+  End Top Comic
+  Box Tag
+  .tag-row a{
+    font-size: 0.7rem;
+  }
+  .tag-col{
+    margin: 0rem 0rem !important;
+    padding: 0rem 0.2rem !important;
+  }
+  .tag-col img{
+    display: none;
+  }
+  End Box Tag
+  End Index
+  
+  Detail
+  .detail-comic-second{
+    padding: 0.2rem !important;
+  }
+  .breadcrumb{
+    font-size: 0.7rem;
+    padding: 0.2rem 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .title-comic{
+    font-size: 0.7rem;
+    margin-bottom: 0rem;
+  }
+  hr{
+    margin: 0.2rem 0rem !important;
+  }
+  .more-comic-info{
+    font-size: 0.5rem;
+    margin-bottom: 0.2rem;
+  }
+  .detail-comic{
+    padding: 0rem !important;
+  }
+  .sub-comic{
+    padding-left: 0rem !important;
+  }
+  .detail-content img{
+    width: 0.4rem;
+    margin-right: 0.2rem;
+  }
+  .detail-content{
+    font-size: 0.5rem;
+    margin: 0.2rem;
+  }
+  .container-btn{
+    padding: 0rem !important;
+    margin: 0rem !important;
+  }
+  .btn-list-chapter{
+    font-size: 0.5rem;
+    padding: 0.3rem 0.2rem;
+    margin: 0rem 1.2rem 0rem 0rem;
+  }
+  .btn-list-chapter img{
+    width: 0.5rem;
+    margin-right: 0.2rem;
+  }
+  .btn-follow-chapter{
+    font-size: 0.5rem;
+    padding: 0.3rem 0.2rem;
+    margin: 0rem;
+  }
+  .btn-follow-chapter img{
+    width: 0.5rem;
+    margin-right: 0.2rem;
+  }
+  .btn-like-chapter{
+    font-size: 0.5rem;
+    padding: 0.3rem 0.2rem;
+    margin: 0rem;
+  }
+  .btn-like-chapter img{
+    width: 0.5rem;
+  }
+  .pd-bt{
+    padding-bottom: 0.5rem;
+  }
+  .list-chapter{
+    font-size: 0.7rem;
+    padding: 0rem;
+  }
+  .lst{
+    font-size: 0.4rem;
+  }
+  .col-3{
+    padding-left: 0.2rem !important;
+    padding-right: 0rem !important;
+  }
+  .all-chapter-btn{
+    font-size: 0.6rem;
+    margin: 0rem !important;
+    padding: 0rem !important;
+  }
+  textarea{
+    font-size: 0.6rem;
+    padding: 0.5rem;
+    height: 60px;
+  }
+  .btn-send{
+    font-size: 0.6rem;
+    padding: 0.2rem !important;
+    margin: 0rem !important;
+    width: 50px !important;
+  }
+  .btn-send img{
+    width: 0.5rem;
+  }
+  .user-info-comment{
+    font-size: 0.7rem;
+  }
+  .member{
+    font-size: 0.5rem !important;
+    margin: 0rem;
+    padding: 0.2rem;
+  }
+  .admin{
+    font-size: 0.5rem !important;
+    margin: 0rem;
+    padding: 0.2rem;
+  }
+  .user-info-comment span{
+    font-size: 0.6rem;
+  }
+  .time-cmt{
+    display: none;
+  }
+  .msg-comment{
+    font-size: 0.7rem;
+  }
+  .reply-comment{
+    font-size: 0.6rem;
+  }
+  .reply-lv1{
+    display: none;
+  }
+  .like-comment{
+    font-size: 0.6rem;
+  }
+  .like-comment img{
+    width: 0.5rem;
+  }
+  End detail
+
+  History
+  .title-history{
+    font-size: 0.9rem;
+  }
+  .content-sub-his{
+    font-size: 0.6rem;
+    margin: 0.5rem;
+  }
+  .chapter-history a{
+    font-size: 0.6rem;
+  }
+  End History
+
+  Account
+  .navbar{
+    padding: 0rem;
+  }
+  .col-6{
+    padding: 0.5rem;
+  }
+  .changepw{
+    padding: 0rem!important;
+    background-color: #F8F9FA;
+  }
+  .account-menu{
+    padding-bottom: 0rem !important;
+  }
+  .account-title{
+    font-size: 0.6rem;
+    padding: 0.5rem 0.3rem;
+    margin-bottom: 0rem !important;
+  }
+  .changepw-title{
+    padding-top: 0rem !important;
+    font-size: 0.6rem;
+    margin-bottom: 0rem !important;
+    padding-bottom: 0.5rem;
+  }
+  .account-list-item{
+    font-size: 0.4rem;
+    padding: 0.3rem 0rem;
+    height: 20px;
+  }
+  .img-upload{
+    padding-top: 1rem;
+    height: 200px;
+  }
+  .img-upload img {
+    width: 60px;
+    height: 60px;
+    margin: 2rem 0rem;
+  }
+  .img-upload p{
+    font-size: 0.4rem;
+    margin: -1rem 0rem -0.5rem ;
+    width: 120px;
+  }
+  .label-for-input{
+    font-size: 0.5rem;
+  }
+  .title-form{
+    font-size: 0.6rem;
+  }
+  .form__input{
+    height: 25px;
+    font-size: 0.5rem;
+    padding: 0.2rem;
+  }
+  .form-group{
+    margin-bottom: 0rem !important;
+  }
+  .btn-submit{
+    margin-top: 0.5rem;
+    font-size: 0.6rem;
+    padding: 0.3rem !important;
+  }
+  .follow-box{
+    padding: 0.5rem !important;
+  }
+  .account-infor{
+    padding-bottom: 2rem !important;
+  }
+  End account
+
+  Reading
+  .title-sub-tag{
+    font-size: 0.7rem;
+  }
+  .btn-list-reading{
+    padding: 0.2rem 0.4rem;
+  }
+  .btn-list-reading img{
+    width: 0.5rem;
+    padding-bottom: 0.2rem;
+  }
+  .select{
+    font-size: 0.6rem;
+  }
+  .padding-sub{
+    padding-left: 1rem !important;
+  }
+  End Reading
+
+  Tag
+  .content-sub-tag{
+    font-size: 0.5rem;
+    margin: 0rem 0.5rem;
+  }
+  .img-hot-tag img {
+    margin: 0.5rem 0.2rem;
+    width: 5rem;
+  }
+  .content-hot-tag{
+    padding-left: 1.5rem;
+    padding-bottom: 0.5rem;
+  }
+  .title-hot-tag{
+    font-size: 0.8rem;
+    margin: 0.5rem 0rem;
+  }
+  .detail-content-hot-tag{
+    font-size: 0.65rem;
+  }
+  .detail-content-hot-tag img{
+    width: 0.5rem;
+    margin-right: 0.1rem;
+  }
+  .chapter-update{
+    padding: 0.2rem;
+  }
+  .time-update{
+    margin-top: 0.8rem !important;
+    padding: 0rem !important;
+  }
+  .btn-read{
+    font-size: 0.7rem;
+    padding: 0.2rem 1rem;
+  }
+  .last {
+    margin-bottom: 0.2rem;
+  }
+  End Tag
+  Footer
+  .footer{
+    font-size: 0.5rem;
+  }
+  .logo-footer{
+    width: 6rem;
+    margin: 1rem 0rem 0rem;
+  }
+  .title-footer{
+    font-size: 0.6rem;
+    margin-top: 1rem;
+  }
+  .col-footer{
+    padding: 0rem 0.2rem !important;
+    margin-top: 0rem;
+  }
+  .col-footer p{
+    font-size: 0.6rem;
+    margin: 0.2rem !important;
+  }
+  .icon-footer{
+    width: 0.8rem;
+    padding-right: 0.2rem;
+    margin-bottom: 0.2rem;
+    margin-right: 0rem;
+  }
+  .copy-right{
+    padding: 0.3rem;
+  }
+  .text-3{
+    font-size: 0.5rem;
+  }
+  End footer
+}
+
+@media screen and (min-width: 425px) and (max-width: 767px) {
+  .move-top img{
+    width: 2rem;
+  }
+  Login
+  .login-mg-pd{
+    margin: 8rem 0rem 10rem;
+  }
+  .brand-login img{
+    margin: 1rem 1rem 1rem 0rem;
+  }
+  .al-login{
+    width: 100% !important;
+    margin-bottom: 3rem;
+  }
+  .al-login input{
+    font-size: 0.8rem !important;
+    height: 30px;
+  }
+  .login-btn{
+    font-size: 0.8rem !important;
+    padding: 0.5rem 2rem !important;
+  }
+  .fg-pswd{
+    padding-top: 0.5rem !important;
+    font-size: 0.6rem;
+  }
+  .signin-btn {
+    padding: 0rem !important;
+  }
+  .signin-btn a{
+    font-size: 0.8rem !important;
+    padding: 0.5rem 2rem !important;
+  }
+  End Login
+  Sign Up
+  .sub-signup h2{
+    font-size: 1rem;
+  }
+  .sub-signup p{
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem !important;
+  }
+  .signup-mg-pd{
+    margin: 8rem 0rem 10rem;
+  }
+  .brand-signup img{
+    margin: 6rem 1rem 1rem 0rem;
+  }
+  .name-form{
+    margin-bottom: 0.5rem !important;
+  }
+  .align-input{
+    margin-top: 0.5rem;
+  }
+  .sc-input input{
+    font-size: 0.8rem !important;
+  }
+  .surname-input{
+    padding: 0rem !important;
+  }
+  .surname-input input{
+    font-size: 0.8rem !important;
+  }
+  .lastname-input{
+    padding: 0rem 0rem 0rem 0.5rem !important;
+  }
+  .lastname-input input{
+    font-size: 0.8rem !important;
+  }
+  .signup-btn{
+    font-size: 0.8rem !important;
+    padding: 0.5rem 2rem !important;
+  }
+  End Sign Up
+  Header
+  .nav{
+    font-size: 0.8rem;
+  }
+  .dropbtn{
+    font-size: 0.8rem;
+  }
+  .img-icon{
+    width: 1rem;
+  }
+  .first{
+    font-size: 0.6rem;
+    min-width: 240px;
+  }
+  .first a{
+   width: 120px;
+   padding: 12px; 
+  }
+  .sc-dr{
+    right: -1rem;
+    font-size: 0.6rem;
+    min-width: 120px;
+  }
+  .sc-dr a{
+    width: 120px;
+    padding: 12px;
+  }
+  .disappear {
+    display: none !important;
+  }
+  .home{
+    display: none !important;
+  }
+  .last-row{
+    display: none !important;
+  }
+  .search-tool{
+    display: none !important;
+  }
+  .navbar-brand img{
+    width: 6rem;
+  }
+  End header
+  
+  Index
+  .title{
+    font-size: 0.9rem;
+  }
+  Slider
+  p{
+    font-size: 0.8rem;
+  }
+  .content{
+    width: 120px;
+  }
+  .card-content{
+   padding: 0.5rem 0.2rem;
+  }
+  .time{
+    display: none;
+  }
+  .slide-card {
+    height: 160px;
+    width: 130px;
+  }
+  .chapter{
+    font-size: 0.7rem !important;
+  }
+  .btnRight{
+    left: 85%;
+  }
+  .slider-border{
+    margin-top: 4rem;
+    padding-bottom: 1rem;
+  }
+  End Slider
+  Main Section
+  .title-update{
+  width: 120px;
+  }
+  .chapter-update a{
+    font-size: 0.65rem;
+  }
+  .time-update{
+    margin-top: 0.2rem;
+    font-size: 0.65rem;
+  }
+  .page-al{
+    padding-left: 25%;
+  }
+  .pagination{
+    font-size: 0.8rem;
+  }
+  .read{
+    font-size: 0.6rem;
+    margin-left: 0rem;
+    padding-left: 1rem;
+  }
+  .like-white{
+    font-size: 0.6rem;
+    margin-left: 0.3rem;
+    padding-left: 0.8rem;
+  }
+  End MainSection
+  Top Comic
+  .hot-title{
+    font-size: 0.8rem;
+  }
+  End Top Comic
+  Box Tag
+  .tag-row a{
+    font-size: 0.8rem;
+  }
+  .tag-col{
+    margin: 0rem 0rem !important;
+    padding: 0.2rem 0rem !important;
+  }
+  .tag-col img{
+    width: 0.8rem;
+    padding-left: 0.2rem;
+    margin: 0rem 0.2rem;
+  }
+  End Box Tag
+  End Index
+  
+  Detail
+
+  .breadcrumb{
+    font-size: 0.8rem;
+  }
+  .title-comic{
+    font-size: 0.8rem;
+  }
+  hr{
+    margin: 0.2rem 0rem !important;
+  }
+  .more-comic-info{
+    font-size: 0.6rem;
+  }
+  .detail-comic{
+    padding: 0rem !important;
+  }
+  .sub-comic{
+    padding-left: 0rem !important;
+  }
+  .detail-content img{
+    width: 0.5rem;
+    margin-right: 0.2rem;
+  }
+  .detail-content{
+    font-size: 0.6rem;
+  }
+  .container-btn{
+    padding: 0rem;
+    margin: 0rem;
+  }
+  .btn-list-chapter{
+    font-size: 0.6rem;
+    padding: 0.3rem 0.5rem;
+  }
+  .btn-list-chapter img{
+    width: 0.5rem;
+  }
+  .btn-follow-chapter{
+    font-size: 0.6rem;
+    padding: 0.3rem 0.6rem;
+  }
+  .btn-follow-chapter img{
+    width: 0.5rem;
+  }
+  .btn-like-chapter{
+    font-size: 0.6rem;
+    padding: 0.3rem 0.6rem;
+  }
+  .btn-like-chapter img{
+    width: 0.5rem;
+  }
+  .pd-bt{
+    padding-bottom: 0.5rem;
+  }
+  .list-chapter{
+    font-size: 0.8rem;
+    padding: 0 0.5rem;
+  }
+  .lst{
+    font-size: 0.6rem;
+  }
+  .col-3{
+    padding-left: 0rem !important;
+  }
+  .all-chapter-btn{
+    font-size: 0.6rem;
+    margin: 0rem !important;
+    padding: 0.5rem !important;
+  }
+  textarea{
+    font-size: 0.8rem;
+    padding: 0.5rem;
+    height: 80px;
+  }
+  .btn-send{
+    font-size: 0.8rem;
+    padding: 0.2rem;
+  }
+  .user-info-comment{
+    font-size: 0.8rem;
+  }
+  .member{
+    margin: 0rem;
+    padding: 0.2rem;
+  }
+  .admin{
+    margin: 0rem;
+    padding: 0.2rem;
+  }
+  .user-info-comment span{
+    font-size: 0.6rem;
+  }
+  .time-cmt{
+    display: none;
+  }
+  .msg-comment{
+    font-size: 0.8rem;
+  }
+  .reply-comment{
+    font-size: 0.6rem;
+  }
+  .reply-lv1{
+    display: none;
+  }
+  .like-comment{
+    font-size: 0.6rem;
+  }
+  .like-comment img{
+    width: 0.5rem;
+  }
+  End detail
+
+  History
+  .title-history{
+    font-size: 0.9rem;
+  }
+  .content-sub-his{
+    font-size: 0.6rem;
+    margin: 0.5rem;
+  }
+  .chapter-history a{
+    font-size: 0.6rem;
+  }
+  End History
+
+  Account
+  .changepw{
+    padding: 1rem 0rem 3rem!important;
+    background-color: #F8F9FA;
+  }
+  .account-menu{
+    padding-bottom: 0rem !important;
+  }
+  .account-title{
+    font-size: 0.7rem;
+    padding: 0.5rem 0.3rem;
+    margin-bottom: 0rem !important;
+  }
+  .changepw-title{
+    padding-top: 0rem !important;
+    font-size: 0.8rem;
+    margin-bottom: 0rem !important;
+    padding-bottom: 0.5rem;
+  }
+  .account-list-item{
+    font-size: 0.6rem;
+    padding: 0.5rem 0rem;
+    height: 30px;
+  }
+  .img-upload{
+    height: 300px;
+  }
+  .img-upload img {
+    width: 80px;
+    height: 80px;
+    margin: 2rem 0rem;
+  }
+  .img-upload p{
+    font-size: 0.6rem;
+    margin: -1rem 0rem -0.5rem ;
+    width: 160px;
+  }
+  .label-for-input{
+    font-size: 0.6rem;
+  }
+  .title-form{
+    font-size: 0.8rem;
+  }
+  .form__input{
+    height: 2rem;
+    font-size: 0.7rem;
+    padding: 0.2rem;
+  }
+  .form-group{
+    margin-bottom: 0rem !important;
+  }
+  .btn-submit{
+    margin-top: 1rem;
+    font-size: 0.7rem;
+    padding: 0.3rem !important;
+  }
+  .follow-box{
+    padding: 0.5rem !important;
+  }
+  .account-infor{
+    padding-bottom: 2rem !important;
+  }
+  End account
+
+  Reading
+  .title-sub-tag{
+    font-size: 0.9rem;
+  }
+  .btn-list-reading{
+    padding: 0.4rem 0.8rem;
+  }
+  .btn-list-reading img{
+    width: 0.8rem;
+    padding-bottom: 0.2rem;
+  }
+  .select{
+    font-size: 0.8rem;
+  }
+  .padding-sub{
+    padding-left: 1rem !important;
+  }
+  End Reading
+
+  Tag
+  .content-sub-tag{
+    font-size: 0.8rem;
+    margin: 0rem 0.5rem;
+  }
+  .img-hot-tag img {
+    margin: 0.5rem;
+    width: 6rem;
+  }
+  .content-hot-tag{
+    padding-left: 1.5rem;
+    padding-bottom: 0.5rem;
+  }
+  .title-hot-tag{
+    font-size: 0.8rem;
+    margin: 0.5rem 0rem;
+  }
+  .detail-content-hot-tag{
+    font-size: 0.65rem;
+  }
+  .detail-content-hot-tag img{
+    width: 0.5rem;
+    margin-right: 0.1rem;
+  }
+  .btn-read{
+    font-size: 0.8rem;
+    padding: 0.2rem 1rem;
+  }
+  .last {
+    margin-bottom: 0.2rem;
+  }
+  End Tag
+  Footer
+  .footer{
+    font-size: 0.6rem;
+  }
+  .logo-footer{
+    width: 8rem;
+    margin: 1rem 0rem;
+  }
+  .title-footer{
+    font-size: 0.8rem;
+  }
+  .col-footer{
+    padding: 0rem 0.5rem !important;
+  }
+  .icon-footer{
+    width: 0.8rem;
+    padding-right: 0.2rem;
+    margin-bottom: 0.2rem;
+    margin-right: 0rem;
+  }
+  .copy-right{
+    padding: 0.5rem;
+  }
+  .text-3{
+    font-size: 0.7rem;
+  }
+  End footer
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .move-top img{
+    width: 2.5rem;
+  }
+  Login
+  .brand-login p{
+    font-size: 0.9rem;
+  }
+  .login-mg-pd{
+    margin: 8rem 0rem 10rem;
+  }
+  .brand-login img{
+    margin: 2rem 1rem 1rem 0rem;
+  }
+  .al-login{
+    width: 100% !important;
+    margin-bottom: 3rem;
+  }
+  .al-login input{
+    font-size: 0.9rem !important;
+  }
+  .login-btn{
+    font-size: 0.9rem !important;
+    padding: 0.5rem 2rem !important;
+  }
+  .fg-pswd{
+    padding-top: 0.5rem !important;
+    font-size: 0.8rem;
+  }
+  .signin-btn {
+    padding: 0rem !important;
+  }
+  .signin-btn a{
+    font-size: 0.9rem !important;
+    padding: 0.5rem 2rem !important;
+  }
+  End Login
+  Sign Up
+  .brand-signup p{
+    font-size: 0.9rem;
+  }
+  .sub-signup h2{
+    font-size: 1.5rem;
+  }
+  .sub-signup p{
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem !important;
+  }
+  .signup-mg-pd{
+    margin: 8rem 0rem 10rem;
+  }
+  .brand-signup img{
+    margin: 6rem 1rem 1rem 0rem;
+  }
+  .name-form{
+    margin-bottom: 0.5rem !important;
+  }
+  .align-input{
+    margin-top: 0.5rem;
+  }
+  .sc-input input{
+    font-size: 0.8rem !important;
+  }
+  .surname-input{
+    padding: 0rem !important;
+  }
+  .surname-input input{
+    font-size: 0.9rem !important;
+    height: 40px;
+  }
+  .lastname-input{
+    padding: 0rem 0rem 0rem 0.5rem !important;
+  }
+  .lastname-input input{
+    font-size: 0.9rem !important;
+    height: 40px;
+  }
+  .signup-btn{
+    font-size: 0.9rem !important;
+    padding: 0.5rem 2rem !important;
+  }
+  End Sign Up
+  Header
+  .nav{
+    font-size: 0.9rem;
+  }
+  .dropbtn{
+    font-size: 0.9rem;
+  }
+  .img-icon{
+    width: 1.5rem;
+  }
+  .first{
+    font-size: 0.8rem;
+    min-width: 280px;
+  }
+  .first a{
+   width: 140px;
+   padding: 12px; 
+  }
+  .sc-dr{
+    right: -1rem;
+    font-size: 0.8rem;
+    min-width: 150px;
+  }
+  .sc-dr a{
+    width: 150px;
+    padding: 12px;
+  }
+  .home{
+    display: none !important;
+  }
+  .search-tool{
+    margin: 0rem !important;
+    display: inline-block !important;
+  }
+  .search-tool input{
+    height: 30px !important;
+    font-size: 0.8rem;
+    width: 200px !important;
+  }
+  .suggest-comic{
+    width: 200px;
+    left: 48%;
+    top: 40px;
+    max-height: 240px;
+  }
+  .suggest-comic li{
+    padding: 0.3rem;
+  }
+  .suggest-comic a{
+    font-size: 0.8rem;
+  }
+  .my-btn-outline-success{
+    padding: 0.1rem 0.5rem;
+  }
+  .disappear {
+    display: block !important;
+  }
+  .navbar-brand img{
+    width: 6rem;
+  }
+  End header
+  
+  Index
+  .title{
+    font-size: 0.9rem;
+  }
+  Slider
+  p{
+    font-size: 0.8rem;
+  }
+  .content{
+    width: 120px;
+  }
+  .card-content{
+   padding: 0.5rem 0.2rem;
+  }
+  .slider-border{
+    margin-top: 5rem !important;
+  }
+  .time{
+    display: none;
+  }
+  .slide-card {
+    height: 160px;
+    width: 130px;
+  }
+  .chapter{
+    font-size: 0.7rem !important;
+  }
+  .btnRight{
+    left: 90%;
+  }
+  .slider-border{
+    margin-top: 4rem;
+    padding-bottom: 1rem;
+  }
+  End Slider
+  Main Section
+  .title-update{
+  width: 130px;
+  }
+  .chapter-update a{
+    font-size: 0.7rem;
+  }
+  .time-update{
+    margin-top: 0.2rem;
+    font-size: 0.7rem;
+  }
+  .page-al{
+    padding-left: 30%;
+  }
+  .pagination{
+    font-size: 0.9rem;
+  }
+  .read{
+    font-size: 0.6rem;
+    margin-left: 0rem;
+    padding-left: 1rem;
+  }
+  .like-white{
+    font-size: 0.6rem;
+    margin-left: 0.3rem;
+    padding-left: 0.8rem;
+  }
+  .last-card{
+    display: none !important;
+  }
+  End MainSection
+  Top Comic
+  .hot-title{
+    font-size: 0.8rem;
+  }
+  .rank{
+    margin: 0rem;
+    padding: 0rem ;
+  }
+  .title-comic-hot{
+    font-size: 0.8rem !important;
+    width: 120px;
+  }
+  .read-black{
+    display: none !important;
+  }
+  .chapter-hot{
+    padding: 0rem;
+    font-size: 0.65rem;
+  }
+  .hot-card img{
+    width: 50%;
+  }
+  End Top Comic
+  Box Tag
+  .tag-row a{
+    font-size: 0.8rem;
+  }
+  .tag-col{
+    margin: 0rem 0rem !important;
+    padding: 0.5rem 0rem!important;
+  }
+  .tag-col img{
+    width: 0.8rem;
+    padding-left: 0.2rem;
+    margin: 0rem 0.2rem;
+  }
+  End Box Tag
+  End Index
+  
+  Detail
+
+  .breadcrumb{
+    font-size: 0.8rem;
+  }
+  .title-comic{
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+  }
+  hr{
+    margin: 0.5rem 0rem !important;
+  }
+  .more-comic-info{
+    font-size: 0.8rem;
+  }
+  .detail-comic{
+    padding: 0rem !important;
+  }
+  .sub-comic{
+    padding-left: 0rem !important;
+  }
+  .detail-content img{
+    width: 0.7rem;
+    margin-right: 0.2rem;
+  }
+  .detail-content{
+    font-size: 0.7rem;
+  }
+  .container-btn{
+    padding: 0rem;
+    margin: 0rem;
+  }
+  .btn-list-chapter{
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    margin: 0rem 3rem 0rem 0rem!important;
+  }
+  .btn-list-chapter img{
+    width: 0.8rem;
+  }
+  .btn-follow-chapter{
+    font-size: 0.8rem;
+    padding: 0.2rem 0.8rem;
+    margin: 0rem !important;
+  }
+  .btn-follow-chapter img{
+    width: 0.8rem;
+  }
+  .btn-like-chapter{
+    font-size: 0.8rem;
+    padding: 0.2rem 0.6rem;
+    margin-left: 0rem;
+  }
+  .btn-like-chapter img{
+    width: 0.8rem;
+  }
+  .pd-bt{
+    padding-bottom: 0rem;
+  }
+  .list-chapter{
+    font-size: 0.9rem;
+    padding: 0rem 0.5rem;
+  }
+  .lst{
+    font-size: 0.7rem;
+  }
+  .col-3{
+    padding-left: 0rem !important;
+  }
+  .all-chapter-btn{
+    font-size: 0.7rem;
+    margin: 0rem !important;
+    padding: 0.5rem !important;
+  }
+  textarea{
+    font-size: 0.8rem;
+    padding: 0.5rem;
+    height: 80px;
+  }
+  .btn-send{
+    font-size: 0.8rem;
+    padding: 0.2rem;
+  }
+  .user-info-comment{
+    font-size: 0.8rem;
+  }
+  .member{
+    margin: 0rem;
+    padding: 0.2rem;
+  }
+  .admin{
+    margin: 0rem;
+    padding: 0.2rem;
+  }
+  .time-cmt{
+    font-size: 0.7rem;
+  }
+  .user-info-comment span{
+    font-size: 0.8rem;
+  }
+  .msg-comment{
+    font-size: 0.8rem;
+  }
+  .reply-comment{
+    font-size: 0.7rem;
+  }
+  .reply-lv1{
+    display: none;
+  }
+  .like-comment{
+    font-size: 0.7rem;
+  }
+  .like-comment img{
+    width: 0.8rem;
+  }
+  End detail
+
+  History
+  .title-history{
+    font-size: 1rem;
+  }
+  .content-sub-his{
+    font-size: 0.8rem;
+    margin: 0.5rem;
+  }
+  .chapter-history a{
+    font-size: 0.8rem;
+  }
+  End History
+
+  Account
+  .changepw{
+    padding: 1rem 0rem 3rem!important;
+    background-color: #F8F9FA;
+  }
+  .account-menu{
+    padding-bottom: 0rem !important;
+  }
+  .account-title{
+    font-size: 0.8rem !important;
+    padding: 0.5rem 0.3rem;
+    margin-bottom: 0rem !important;
+  }
+  .changepw-title{
+    padding-top: 0.5rem !important;
+    font-size: 0.9rem;
+    margin-bottom: 0rem !important;
+    padding-bottom: 0.5rem;
+  }
+  .account-list-item{
+    font-size: 0.7rem;
+    padding: 0.5rem;
+    height: 30px;
+  }
+  .img-upload{
+    height: 400px;
+  }
+  .img-upload img {
+    width: 120px;
+    height: 120px;
+    margin: 2rem 0rem;
+  }
+  .img-upload p{
+    font-size: 0.6rem;
+    margin: -1rem 0rem -0.5rem 0.5rem ;
+    width: 240px;
+  }
+  .label-for-input{
+    font-size: 0.7rem;
+  }
+  .title-form{
+    font-size: 0.8rem;
+  }
+  .form__input{
+    height: 2rem;
+    font-size: 0.8rem;
+    padding: 0.2rem 0.2rem 0.2rem 0.5rem;
+  }
+  .form-group{
+    margin-bottom: 0rem !important;
+  }
+  .btn-submit{
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    padding: 0.3rem !important;
+  }
+  .follow-box{
+    padding: 0.5rem !important;
+    margin-bottom: 5rem;
+  }
+  End account
+
+  Reading
+  .title-sub-tag{
+    font-size: 1rem;
+  }
+  .btn-list-reading{
+    padding: 0.4rem 0.8rem;
+  }
+  .btn-list-reading img{
+    width: 0.8rem;
+    padding-bottom: 0.2rem;
+  }
+  .select{
+    font-size: 0.8rem;
+  }
+  .padding-sub{
+    padding-left: 1rem !important;
+  }
+  .user-info-comment a{
+    font-size: 0.9rem;
+  }
+  End Reading
+
+  Tag
+  .content-sub-tag{
+    font-size: 0.8rem;
+    margin: 0rem 0.5rem;
+  }
+  .img-hot-tag img {
+    margin: 0.5rem 0.5rem 0.5rem 1.5rem;
+    width: 6rem;
+  }
+  .content-hot-tag{
+    padding-left: 0rem;
+    padding-bottom: 0.5rem;
+  }
+  .title-hot-tag{
+    font-size: 0.8rem;
+    margin: 0.5rem 0rem;
+  }
+  .detail-content-hot-tag{
+    font-size: 0.7rem;
+  }
+  .detail-content-hot-tag img{
+    width: 0.7rem;
+    margin-right: 0.2rem;
+  }
+  .btn-read{
+    font-size: 0.8rem;
+    padding: 0.2rem 1rem;
+  }
+  .last {
+    margin-bottom: 0.2rem;
+  }
+  End Tag
+  Footer
+  .footer{
+    font-size: 0.8rem;
+  }
+  .logo-footer{
+    width: 8rem;
+    margin: 1rem 0rem;
+  }
+  .title-footer{
+    font-size: 1rem;
+  }
+  .col-footer{
+    padding: 0rem 0.5rem !important;
+  }
+  .icon-footer{
+    width: 1rem;
+    padding-right: 0.2rem;
+    margin-bottom: 0.2rem;
+    margin-right: 0rem;
+  }
+  .copy-right{
+    padding: 0.6rem;
+  }
+  .text-3{
+    font-size: 0.8rem;
+  }
+  End footer
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .move-top img{
+    width: 3rem;
+  }
+  Login
+  .brand-login{
+    padding: 2rem;
+  }
+  .brand-login p{
+    font-size: 1rem;
+  }
+  .login-mg-pd{
+    margin: 10rem 6rem 12rem;
+  }
+  .brand-login img{
+    margin: 2rem 1rem 1rem 0rem;
+  }
+  .al-login{
+    width: 100%;
+    margin-bottom: 3rem;
+  }
+  .al-login input{
+    font-size: 0.9rem !important;
+  }
+  .login-btn{
+    font-size: 0.9rem !important;
+    padding: 0.5rem 2rem !important;
+  }
+  .fg-pswd{
+    padding-top: 0rem !important;
+    font-size: 0.8rem;
+  }
+  .signin-btn {
+    padding: 0rem !important;
+  }
+  .signin-btn a{
+    font-size: 0.9rem !important;
+    padding: 0.5rem 2rem !important;
+  }
+  End Login
+  Sign Up
+  .brand-signup{
+    padding: 2rem;
+  }
+  .brand-signup p{
+    font-size: 1rem;
+  }
+  .sub-signup h2{
+    font-size: 1.5rem;
+  }
+  .sub-signup p{
+    font-size: 1rem;
+    margin-bottom: 0.5rem !important;
+  }
+  .signup-mg-pd{
+    margin: 8rem 0rem 10rem;
+  }
+  .brand-signup img{
+    margin: 6rem 1rem 1rem 0rem;
+  }
+  .name-form{
+    margin-bottom: 0.8rem !important;
+  }
+  .align-input{
+    margin-top: 0.8rem;
+  }
+  .sc-input input{
+    font-size: 0.8rem !important;
+  }
+  .surname-input{
+    padding: 0rem !important;
+  }
+  .surname-input input{
+    font-size: 0.9rem !important;
+    height: 40px;
+  }
+  .lastname-input{
+    padding: 0rem 0rem 0rem 0.5rem !important;
+  }
+  .lastname-input input{
+    font-size: 0.9rem !important;
+    height: 40px;
+  }
+  .signup-btn{
+    font-size: 0.9rem !important;
+    padding: 0.5rem 2rem !important;
+  }
+  End Sign Up
+  Header
+  .nav{
+    font-size: 0.9rem;
+  }
+  .dropbtn{
+    font-size: 0.9rem;
+  }
+  .img-icon{
+    width: 1.5rem;
+  }
+  .first{
+    font-size: 0.8rem;
+    min-width: 280px;
+  }
+  .first a{
+   width: 140px;
+   padding: 12px; 
+  }
+  .sc-dr{
+    right: -1rem;
+    font-size: 0.8rem;
+    min-width: 150px;
+  }
+  .sc-dr a{
+    width: 150px;
+    padding: 12px;
+  }
+  .home{
+    display: none !important;
+  }
+  .search-tool{
+    margin: 0rem !important;
+    display: inline-block !important;
+  }
+  .search-tool input{
+    height: 30px !important;
+    font-size: 0.9rem;
+    width: 300px !important;
+  }
+  .suggest-comic{
+    width: 300px;
+    left: 47%;
+    top: 40px;
+    max-height: 240px;
+  }
+  .suggest-comic li{
+    padding: 0.4rem;
+  }
+  .suggest-comic a{
+    font-size: 0.8rem;
+  }
+  .my-btn-outline-success{
+    padding: 0.1rem 0.5rem;
+  }
+  .disappear {
+    display: block !important;
+  }
+  .navbar-brand img{
+    width: 8rem;
+  }
+  End header
+  
+  Index
+  .title{
+    font-size: 0.9rem;
+  }
+  Slider
+  p{
+    font-size: 0.8rem;
+  }
+  .content{
+    width: 120px;
+  }
+  .card-content{
+   padding: 0.5rem 0.2rem;
+  }
+  .slider-border{
+    margin-top: 5rem !important;
+  }
+  .time{
+    display: none;
+  }
+  .slide-card {
+    height: 160px;
+    width: 130px;
+  }
+  .chapter{
+    font-size: 0.7rem !important;
+  }
+  .btnRight{
+    left: 92%;
+  }
+  .slider-border{
+    margin-top: 4rem;
+    padding-bottom: 1rem;
+  }
+  End Slider
+  Main Section
+  .title-update{
+    width: 130px;
+  }
+  .chapter-update a{
+    font-size: 0.7rem;
+  }
+  .time-update{
+    margin-top: 0.2rem;
+    font-size: 0.7rem;
+  }
+  .page-al{
+    padding-left: 30%;
+  }
+  .pagination{
+    font-size: 0.9rem;
+  }
+  .read{
+    font-size: 0.6rem;
+    margin-left: 0rem;
+    padding-left: 1rem;
+  }
+  .like-white{
+    font-size: 0.6rem;
+    margin-left: 0.3rem;
+    padding-left: 0.8rem;
+  }
+  End MainSection
+  Top Comic
+  .hot-title{
+    font-size: 0.8rem;
+  }
+  .rank{
+    margin: 0rem;
+    padding: 0rem ;
+  }
+  .title-comic-hot{
+    font-size: 0.8rem !important;
+    width: 170px;
+  }
+  .read-black{
+    margin: 0rem;
+    padding-right: 0.5rem;
+    font-size: 0.8rem;
+  }
+  .chapter-hot{
+    padding: 0rem;
+    font-size: 0.8rem;
+  }
+  .hot-card img{
+    width: 50%;
+  }
+  End Top Comic
+  Box Tag
+  .tag-row a{
+    font-size: 0.8rem;
+  }
+  .tag-col{
+    margin: 0rem !important;
+    padding: 0.5rem 0.5rem!important;
+  }
+  .tag-col img{
+    width: 0.8rem;
+    margin: 0rem 0.5rem;
+  }
+  End Box Tag
+  End Index
+  
+  Detail
+  .breadcrumb{
+    font-size: 0.8rem;
+  }
+  .title-comic{
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  hr{
+    margin: 0.5rem 0rem 1rem !important;
+  }
+  .more-comic-info{
+    font-size: 0.9rem;
+  }
+  .detail-comic{
+    padding: 0rem !important;
+  }
+  .sub-comic{
+    padding-top: 0.5rem;
+    padding-left: 0.5rem !important;
+  }
+  .detail-content img{
+    width: 0.7rem;
+    margin-right: 0.2rem;
+  }
+  .detail-content{
+    font-size: 0.8rem;
+  }
+  .container-btn{
+    padding: 0rem;
+    margin: 0rem 0rem 1rem;
+  }
+  .btn-list-chapter{
+    font-size: 0.9rem;
+    padding: 0.5rem 0.5rem;
+    margin: 0rem !important;
+  }
+  .btn-list-chapter img{
+    width: 0.8rem;
+  }
+  .btn-follow-chapter{
+    font-size: 0.9rem;
+    padding: 0.5rem 0.8rem;
+    margin: 0rem !important;
+  }
+  .btn-follow-chapter img{
+    width: 0.8rem;
+  }
+  .btn-like-chapter{
+    font-size: 0.9rem;
+    padding: 0.5rem 0.6rem;
+    margin-left: 0rem;
+  }
+  .btn-like-chapter img{
+    width: 0.8rem;
+  }
+  .pd-bt{
+    padding-bottom: 0rem;
+  }
+  .list-chapter{
+    font-size: 0.9rem;
+    padding: 0rem 0.5rem;
+  }
+  .lst{
+    font-size: 0.8rem;
+  }
+  .col-3{
+    padding-left: 0rem !important;
+  }
+  .all-chapter-btn{
+    font-size: 0.8rem;
+    margin: 0rem !important;
+    padding: 0.5rem !important;
+  }
+  textarea{
+    font-size: 0.8rem;
+    padding: 0.5rem;
+    height: 80px;
+  }
+  .btn-send{
+    font-size: 0.8rem;
+    padding: 0.2rem;
+  }
+  .user-info-comment{
+    font-size: 0.8rem;
+  }
+  .member{
+    margin: 0rem;
+    padding: 0.2rem;
+  }
+  .admin{
+    margin: 0rem;
+    padding: 0.2rem;
+  }
+  .time-cmt{
+    font-size: 0.7rem;
+  }
+  .user-info-comment span{
+    font-size: 0.8rem;
+  }
+  .msg-comment{
+    font-size: 0.8rem;
+  }
+  .reply-comment{
+    font-size: 0.7rem;
+  }
+  .reply-lv1{
+    display: none;
+  }
+  .like-comment{
+    font-size: 0.7rem;
+  }
+  .like-comment img{
+    width: 0.8rem;
+  }
+  End detail
+
+  History
+  .title-history{
+    font-size: 1rem;
+  }
+  .content-sub-his{
+    font-size: 0.8rem;
+    margin: 0.5rem;
+  }
+  .chapter-history a{
+    font-size: 0.8rem;
+  }
+  .time-update{
+    padding-top: 0rem;
+  }
+  End History
+
+  Account
+  .changepw{
+    padding: 1rem 0rem 3rem!important;
+    background-color: #F8F9FA;
+  }
+  .account-menu{
+    padding-bottom: 0rem !important;
+  }
+  .account-title{
+    font-size: 0.9rem !important;
+    padding: 0.5rem 0.3rem;
+    margin-bottom: 0rem !important;
+  }
+  .changepw-title{
+    padding-top: 0.5rem !important;
+    font-size: 0.9rem;
+    margin-bottom: 0rem !important;
+    padding-bottom: 0.5rem;
+  }
+  .account-list-item{
+    font-size: 0.8rem;
+    padding: 0.5rem;
+    height: 40px;
+  }
+  .img-upload{
+    height: 400px;
+  }
+  .img-upload img {
+    width: 120px;
+    height: 120px;
+    margin: 2rem 0rem;
+  }
+  .img-upload p{
+    font-size: 0.8rem;
+    margin: -1rem 0rem -0.5rem 0.5rem ;
+    width: 330px;
+  }
+  .label-for-input{
+    font-size: 0.8rem;
+  }
+  .title-form{
+    font-size: 0.8rem;
+  }
+  .form__input{
+    height: 2rem;
+    font-size: 0.8rem;
+    padding: 0.2rem 0.2rem 0.2rem 0.5rem;
+    height: 40px;
+  }
+  .form-group{
+    margin-bottom: 0rem !important;
+  }
+  .btn-submit{
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    padding: 0.5rem !important;
+  }
+  .follow-box{
+    padding: 0.5rem !important;
+    margin-bottom: 5rem;
+  }
+  End account
+
+  Reading
+  .title-sub-tag{
+    font-size: 1rem;
+  }
+  .btn-list-reading{
+    padding: 0.4rem 0.8rem;
+  }
+  .btn-list-reading img{
+    width: 0.8rem;
+    padding-bottom: 0.2rem;
+  }
+  .select{
+    font-size: 0.8rem;
+  }
+  .padding-sub{
+    padding-left: 1rem !important;
+  }
+  .user-info-comment a{
+    font-size: 0.9rem;
+  }
+  End Reading
+
+  Tag
+  .content-sub-tag{
+    font-size: 0.8rem;
+    margin: 0rem 0.5rem;
+  }
+  .img-hot-tag img {
+    margin: 0.5rem 0.5rem 0.5rem 1.5rem;
+    width: 9rem;
+  }
+  .content-hot-tag{
+    padding-left: 0rem;
+    padding-bottom: 0.5rem;
+  }
+  .title-hot-tag{
+    font-size: 1.2rem;
+    margin: 0.8rem 0rem 1rem;
+  }
+  .detail-content-hot-tag{
+    font-size: 0.8rem;
+  }
+  .detail-content-hot-tag img{
+    width: 0.9rem;
+    margin-right: 0.5rem;
+  }
+  .last{
+    margin-bottom: 1rem !important;
+  }
+  .btn-read{
+    font-size: 0.8rem;
+    padding: 0.5rem 1rem;
+  }
+  .last {
+    margin-bottom: 0.2rem;
+  }
+  End Tag
+  Footer
+  .footer{
+    font-size: 0.9rem;
+  }
+  .logo-footer{
+    width: 10rem;
+    margin: 1rem 0rem;
+  }
+  .content-footer{
+    padding: 0rem;
+  }
+  .title-footer{
+    font-size: 1rem;
+  }
+  .col-footer{
+    padding: 0rem 0.5rem !important;
+  }
+  .col-footer p{
+    margin: 0.5rem 0rem !important;
+  }
+  .icon-footer{
+    width: 1rem;
+    padding-right: 0.2rem;
+    margin-bottom: 0.2rem;
+    margin-right: 0rem;
+  }
+  .copy-right{
+    padding: 0.7rem;
+  }
+  .text-3{
+    font-size: 0.9rem;
+  }
+  End footer
+}
+*/
+
